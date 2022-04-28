@@ -1,5 +1,5 @@
 import unittest
-from funcs.fib import fib
+from func.fib import fib
 
 class TestModule1(unittest.TestCase):
 
